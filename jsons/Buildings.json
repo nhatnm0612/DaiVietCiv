@@ -6,10 +6,10 @@
         "requiredTech": "Philosophy",
         "requiredBuilding": "Shrine",
         "uniques": [
-            "[+1 Faith]",
-            "[+1 Happiness]",
-            "[+1 Culture]",
-            "[+1 Science]"
+            "[+1 Faith] per [4] population [in this city]",
+            "Destroyed when the city is captured",
+            "Only available when religion is enabled",
+            "[+1 Culture] per [4] population [in this city]"
         ]
     }
 ]
