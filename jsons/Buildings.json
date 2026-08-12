@@ -5,6 +5,8 @@
         "uniqueTo": "Đại Việt",
         "requiredTech": "Philosophy",
         "requiredBuilding": "Shrine",
+        "faith": 2,
+        "maintenance": 2,
         "uniques": [
             "[+1 Faith] per [4] population [in this city]",
             "Destroyed when the city is captured",
