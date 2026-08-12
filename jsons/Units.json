@@ -10,13 +10,8 @@
         "requiredTech": "Civil Service",
         "uniques": [
             "Double movement in [Forest]",
-            "Double movement in [Jungle]"
-        ],
-        "abilities": [
-            "[+50]% Combat Strength when fighting in Friendly Territory",
-            "[+25]% Defense in [Forest]",
-            "[+25]% Defense in [Jungle]",
-            "[+50]% Combat Strength vs Mounted units"
+            "Double movement in [Jungle]",
+            "[+50]% Strength vs Mounted units"
         ]
     }
 ]
