@@ -1,15 +1,15 @@
 [
-	{
-		"name": "Tháp Phổ Minh",
-		"replaces": "Temple",
-		"uniqueTo": "Đại Việt",
-		"cost": 100,
-        "faith": 3,
-		"happiness": 2,
-		"culture": 1,
-		"science": 1,
-		"maintenance": 2,
-		"isNationalWonder": false,
-		"requiredTech": "Philosophy"
-	}
+    {
+        "name": "Tháp Phổ Minh",
+        "replaces": "Temple",
+        "uniqueTo": "Đại Việt",
+        "requiredTech": "Philosophy",
+        "requiredBuilding": "Shrine",
+        "uniques": [
+            "[+1 Faith]",
+            "[+1 Happiness]",
+            "[+1 Culture]",
+            "[+1 Science]"
+        ]
+    }
 ]
