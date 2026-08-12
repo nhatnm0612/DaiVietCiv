@@ -1,7 +1,7 @@
 [
     {
         "name": "Thánh Dực Quân",
-        "unitType": "Civilian/Military",
+        "unitType": "Melee",
         "replaces": "Pikeman",
         "uniqueTo": "Đại Việt",
         "movement": 2,
