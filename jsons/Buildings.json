@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Tháp Phổ Minh",
-		"replaces": "Temples",
+		"replaces": "Temple",
 		"uniqueTo": "Đại Việt",
 		"cost": 100,
         "faith": 3,
