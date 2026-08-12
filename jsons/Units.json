@@ -9,11 +9,8 @@
         "cost": 80,
         "requiredTech": "Civil Service",
         "uniques": [
-            "+50% Combat Strength vs Mounted units",
             "Double movement in [Forest]",
-            "Double movement in [Jungle]",
-            "+25% Defense in [Forest]",
-            "+25% Defense in [Jungle]"
+            "Double movement in [Jungle]"
         ]
     }
 ]

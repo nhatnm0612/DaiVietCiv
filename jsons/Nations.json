@@ -12,8 +12,8 @@
         "uniqueName": "Vạn Kiếp Secret Script",
         "uniques": [
             "[+50]% Combat Strength when fighting in Friendly Territory",
-            "Units ignore terrain cost when moving into [Forest]",
-            "Units ignore terrain cost when moving into [Jungle]"
+            "Ignore terrain cost when moving into [Forest]",
+            "Ignore terrain cost when moving into [Jungle]"
         ],
         "cities": [
             "Thăng Long",
