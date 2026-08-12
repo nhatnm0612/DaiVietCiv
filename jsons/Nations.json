@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Đại Việt",
+        "leaderName": "Trần Hưng Đạo",
+        "adjective": [
+            "Đại Việt"
+        ],
+        "startBias": [
+            "Forest",
+            "Jungle"
+        ],
+        "uniqueName": "Vạn Kiếp Tông Bí Truyền",
+        "uniques": [
+            "[+50]% Combat Strength when fighting in Friendly Territory",
+            "Units ignore terrain cost when moving into [Forest]",
+            "Units ignore terrain cost when moving into [Jungle]"
+        ],
+        "cities": [
+            "Thăng Long",
+            "Vạn Kiếp",
+            "Tây Đô",
+            "Bạch Đằng",
+            "Hoa Lư",
+            "Phú Xuân",
+            "Cổ Loa"
+        ],
+        "outerColor": [
+            200,
+            0,
+            0
+        ],
+        "innerColor": [
+            255,
+            215,
+            0
+        ]
+    }
+]
