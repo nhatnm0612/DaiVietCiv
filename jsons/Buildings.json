@@ -8,7 +8,7 @@
         "uniques": [
             "[+1 Faith] per [4] population [in this city]",
             "Destroyed when the city is captured",
-            "Only available when religion is enabled",
+            "Only available <when religion is enabled>",
             "[+1 Culture] per [4] population [in this city]"
         ]
     }
