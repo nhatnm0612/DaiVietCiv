@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Tháp Phổ Minh",
+		"replaces": "Temples",
+		"uniqueTo": "Đại Việt",
+		"cost": 100,
+        "faith": 3,
+		"happiness": 2,
+		"culture": 1,
+		"science": 1,
+		"maintenance": 2,
+		"isNationalWonder": false,
+		"requiredTech": "Philosophy"
+	}
+]
