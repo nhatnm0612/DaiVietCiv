@@ -3,7 +3,7 @@
         "name": "Sacred Wings Army",
         "unitType": "Melee",
         "replaces": "Pikeman",
-        "uniqueTo": "Đại Việt",
+        "uniqueTo": "Dai Viet",
         "movement": 2,
         "strength": 18,
         "cost": 80,

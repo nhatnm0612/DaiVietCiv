@@ -2,7 +2,7 @@
     {
         "name": "Pho Minh Temple",
         "replaces": "Temple",
-        "uniqueTo": "Đại Việt",
+        "uniqueTo": "Dai Viet",
         "requiredTech": "Philosophy",
         "requiredBuilding": "Shrine",
         "faith": 2,
