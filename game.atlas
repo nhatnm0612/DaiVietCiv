@@ -1,27 +1,27 @@
 
 game.png
-size: 128,356
+size: 460,216
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Linear,Linear
 repeat: none
-UnitIcons/Sacred Wings Army
-  rotate: false
-  xy: 0, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
 BuildingIcons/Pho Minh Temple
   rotate: false
-  xy: 0, 128
+  xy: 216, 8
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Dai Viet
   rotate: false
-  xy: 0, 256
+  xy: 352, 8
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sacred Wings Army
+  rotate: false
+  xy: 8, 8
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
