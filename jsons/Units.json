@@ -1,7 +1,7 @@
 [
     {
         "name": "Sacred Wings Army",
-        "unitType": "Melee",
+        "unitType": "Sword",
         "replaces": "Pikeman",
         "uniqueTo": "Dai Viet",
         "movement": 2,
