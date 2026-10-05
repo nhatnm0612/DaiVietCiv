@@ -6,15 +6,18 @@
             "Dai Viet"
         ],
         "startBias": [
+            "Coast",
             "Forest",
             "Jungle"
         ],
         "uniqueName": "Vạn Kiếp Secret Script",
         "uniques": [
             "[+50]% Strength <when fighting in [Friendly Land] tiles>",
+            "[+2] Movement <for [Water] units>",
             "Ignore terrain cost <when moving into [Forest] tiles>",
             "Ignore terrain cost <when moving into [Jungle] tiles>"
         ],
+        "favoredReligion": "Buddhism",
         "cities": [
             "Đông Đô",
             "Bắc Giang",
